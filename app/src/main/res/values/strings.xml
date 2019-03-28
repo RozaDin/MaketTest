@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maket Test</string>
+    <string name="arendator">Арендатор</string>
+    <string name="sobstvennik">Собственник</string>
+</resources>
